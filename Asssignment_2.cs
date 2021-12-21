@@ -168,7 +168,6 @@ namespace Assignment_2
                 Console.Write(words[i] + " ");
             }
             Console.ReadLine();
-        }
-        
+        }        
     }
 }
